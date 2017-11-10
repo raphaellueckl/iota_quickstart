@@ -26,8 +26,8 @@ Install the mobile or the desktop client. If your are asked for which kind of no
 You need a seed, which will act as your private key (like you know if from other coins). To generate a seed, you need to be extremely careful. Everyone will be able to steal your IOTAs if he/she knows this seed.
 
 I suggest the following (since not all wallets generate seeds themselves):
-- Go to https://iotaseedgenerator.com/ and generate a seed
-- Change some of the characters randomly yourself. Do NEVER just plainly copy this generated seed.
+- Generate a seed, [here is how](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/getting-started/dl-wallet/what-is-my-seed.html). If you are using the mobile wallet, it can generate a seed for you. You can also search online for a seed generator, but do NEVER just plainly copy a seed like that, because it could be taken.
+- I highly recommend to not just use the seed you get, but to change some of the characters by yourself. **This is a must if you generated the seed somewhere on an internet page!**
 
 This is the safest and most easy to use method. Never attempt to generate a seed your own by just smashing that keyboard to 81 characters, because humans are bad rando generators.
 You will use this seed to login to your wallet from now on.
@@ -49,6 +49,7 @@ Great, we are all set up now! :)
 Sending IOTA is easy. If you need help, look here: [https://iotasupport.com/gui-sendingandreceiving.shtml](https://iotasupport.com/gui-sendingandreceiving.shtml)
 
 **Important to know is, that you must not use and address to send IOTAs twice!** This can lead to losing your funds. If you do not need to choose the address you send the funds from, do not worry, that means that the wallet already does this for you. 
+
 
 ## Receiving IOTA from someone
 Receiving IOTA is easy. If you need help, look here: [https://iotasupport.com/gui-sendingandreceiving.shtml](https://iotasupport.com/gui-sendingandreceiving.shtml)
@@ -90,6 +91,7 @@ If you found this useful, feel free to apply your knowledge ton one of the follo
 - me (codepleb): DRKIVODWDEPCRESJOCBOXX9MCTEEJJZYHZWQ9ADLURUQSXJHZPGCBXLBAEXAVMIXSRKEJMR9UPWWMPQMZUFEID9YHY
 
 If you have any questions/additions/feedbacks (I'd love it), feel free to create pull requests or hit me up on telegram/slack: @codepleb
+
 
 ## Disclaimer
 I do not take responsibility for anything that is written here. If you somehow mess up anything and blame it on me, just know that you did everything here on your own responsibility.
