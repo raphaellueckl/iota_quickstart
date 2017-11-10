@@ -74,7 +74,7 @@ You have probably read about things like "MIOTA" and stuff like that. Do not wor
 ### How can I buy IOTA?
 You can get IOTA from [Bitfinex](https://bitfinex.com/).
 
-I suggest that you buy ETH from another platform like [Kraken](https://www.kraken.com/), withdraw them to an ETH address on Bitfinex and and from there, trade your ETH to IOTA.
+I suggest that you buy ETH from another platform like [Kraken](https://www.kraken.com/), withdraw them to an ETH address on Bitfinex and and from there, trade your ETH to IOTA. Other coins work as well, you can find out which coin is best via [IOTAbuy](http://iotabuy.kowalski.gd/).
 
 ### My IOTA balance suddenly shows 0.
 Just go to the 'Addresses' section and recreate your address until you see all of your IOTAs.
