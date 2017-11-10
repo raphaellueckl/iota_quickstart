@@ -21,6 +21,7 @@ Install the mobile or the desktop client. If your are asked for which kind of no
 - Desktop Wallets: https://github.com/iotaledger/wallet/releases
 - Android Wallet: [Play Store](https://play.google.com/store/apps/details?id=org.iota.wallet)
 - IOS Wallet: In progress...
+- CLI Wallet with Multisignature support: https://github.com/bitfinexcom/smidgen
 
 You need a seed, which will act as your private key (like you know if from other coins). To generate a seed, you need to be extremely careful. Everyone will be able to steal your IOTAs if he/she knows this seed.
 
