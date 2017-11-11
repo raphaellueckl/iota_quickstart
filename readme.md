@@ -26,7 +26,7 @@ Install the mobile or the desktop client. If your are asked for which kind of no
 You need a seed, which will act as your private key (like you know if from other coins). To generate a seed, you need to be extremely careful. Everyone will be able to steal your IOTAs if he/she knows this seed.
 
 I suggest the following (since not all wallets generate seeds themselves):
-- Generate a seed, [here is how](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/getting-started/dl-wallet/what-is-my-seed.html). If you are using the mobile wallet, it can generate a seed for you. You can also search online for a seed generator, but do NEVER just plainly copy a seed like that, because it could be taken.
+- Generate a seed, [here is how](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/getting-started/dl-wallet/what-is-my-seed.html). If you are using the mobile wallet, it can generate a seed for you. You can also search online for a seed generator, but do NEVER just plainly copy a seed like that, because it could be taken. It is highly recommended not to use an online service for that.
 - I highly recommend to not just use the seed you get, but to change some of the characters by yourself. **This is a must if you generated the seed somewhere on an internet page!**
 
 This is the safest and most easy to use method. Never attempt to generate a seed your own by just smashing that keyboard to 81 characters, because humans are bad rando generators.
@@ -83,6 +83,9 @@ Just go to the 'Addresses' section and recreate your address until you see all o
 
 ### The Bitfinex transaction to my wallet takes forever, should I cancel it?
 Yes, just cancel it and reput your order, if it did not confirm after 1 hour.
+
+### When I click "Attach Address to Tangle" or "Generate New Address", it takes forever, what can I do?
+Try logging out and back into your wallet. If that still does not work, go to 'Tools', 'Edit node configuration' and chose 'CCurl implementation' under the 'Curl implementation' section.
 
 
 ## Contributors:
