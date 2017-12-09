@@ -74,7 +74,7 @@ You have probably read about things like "MIOTA" and stuff like that. Do not wor
 ## FAQ
 
 ### How can I buy IOTA?
-You can get IOTA from [Bitfinex](https://bitfinex.com/).
+You can get IOTA from [Bitfinex](https://bitfinex.com/) and [Binance](https://www.binance.com/).
 
 I suggest that you buy ETH from another platform like [Kraken](https://www.kraken.com/), withdraw them to an ETH address on Bitfinex and and from there, trade your ETH to IOTA.
 
