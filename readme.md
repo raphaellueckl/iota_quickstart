@@ -67,7 +67,7 @@ Here are some things to know (already covered in the other sections, but just to
 
 
 ## Terminology
-You have probably read about things like "MIOTA" and stuff like that. Do not worry, that is not some kind of soft/hard-fork or whatever. MIOTA simply means "Million Iota", so 1 Mi == 1'000'000 IOTA. The image explains it:
+You have probably read about things like "MIOTA" and stuff like that. Do not worry, that is not some kind of soft/hard-fork or whatever. MIOTA simply means "Million Iota", so 1 Mi == 1'000'000 IOTA. If you buy/sell on exchanges, the terminology is usually "IOTA", while actually you trade "MI's". The image explains it:
 
 ![IOTA Terminology](images/iota_term.jpg)
 
