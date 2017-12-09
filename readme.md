@@ -88,14 +88,6 @@ Yes, just cancel it and reput your order, if it did not confirm after 1 hour.
 Try logging out and back into your wallet. If that still does not work, go to 'Tools', 'Edit node configuration' and chose 'CCurl implementation' under the 'Curl implementation' section.
 
 
-## Contributors:
-If you found this useful, feel free to apply your knowledge ton one of the following IOTA addresses. :P
-
-- me (codepleb): DRKIVODWDEPCRESJOCBOXX9MCTEEJJZYHZWQ9ADLURUQSXJHZPGCBXLBAEXAVMIXSRKEJMR9UPWWMPQMZUFEID9YHY
-
-If you have any questions/additions/feedbacks (I'd love it), feel free to create pull requests or hit me up on telegram/slack: @codepleb
-
-
 ## Disclaimer
 I do not take responsibility for anything that is written here. If you somehow mess up anything and blame it on me, just know that you did everything here on your own responsibility.
 
