@@ -16,7 +16,7 @@ Note that everything you do is your own responsibility. I take no responsibility
 
 
 ## Setting up a wallet
-Install the mobile or the desktop client. If your are asked for which kind of node you want to be, choose the light node option.
+Install the mobile or the desktop client. If your are asked for which kind of node you want to be, choose the light node option. Keep in mind, that only the desktop wallet is an "official" one, so if you plan to hodl long term, I suggest you go with that one.
 
 - Desktop Wallets: https://github.com/iotaledger/wallet/releases
 - Android Wallet: [Play Store](https://play.google.com/store/apps/details?id=org.iota.wallet)
